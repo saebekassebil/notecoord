@@ -11,7 +11,7 @@ var notes = {
 };
 
 module.exports = function(name) {
-  return notes[name];
+  return name in notes ? [notes[name][0], notes[name][1]] : null;
 };
 
 module.exports.notes = notes;
