@@ -1,0 +1,28 @@
+{
+  "name": "notecoord",
+  "version": "1.0.0",
+  "description": "Describes the relative intervals between two notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saebekassebil/notecoord.git"
+  },
+  "keywords": [
+    "music",
+    "notes",
+    "coordinates"
+  ],
+  "author": {
+    "name": "Jakob Miland",
+    "email": "saebekassebil@gmail.com",
+    "url": "http://saebekassebil.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saebekassebil/notecoord/issues"
+  },
+  "homepage": "https://github.com/saebekassebil/notecoord"
+}
