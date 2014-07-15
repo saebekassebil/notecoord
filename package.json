@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Describes the relative intervals between two notes",
   "main": "index.js",
-  "scripts": {
-    "test": "tape test/*.js"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/saebekassebil/notecoord.git"
