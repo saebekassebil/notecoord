@@ -16,3 +16,4 @@ module.exports = function(name) {
 
 module.exports.notes = notes;
 module.exports.A4 = [3, 3]; // Relative to C0 (scientic notation, ~16.35Hz)
+module.exports.sharp = [-4, 7];
