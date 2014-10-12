@@ -1,7 +1,7 @@
 # notecoord
 
-A data package containing the relative intervals bewteen notes in the Western muscic system.
-The coordinates are in the format of an array. `[octaves, fifths]` relative to C.
+A data package containing the relative intervals bewteen notes in the Western music system.
+The coordinates are in the format of an array: `[octaves, fifths]` relative to C.
 
 Thus `c`'s coord is `[0, 0]`, while `d`'s is `[-1, 2]` because going to the
 note `d` in the same octave as `c` requires going one octave *down* and two
